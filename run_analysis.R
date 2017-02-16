@@ -56,4 +56,3 @@ resTbl <- (group_by(cTbl, subjectID, activityLbl) %>%
 ## Output
 write.table(resTbl, "CourseProjectResults.txt", row.name=FALSE)
 
-

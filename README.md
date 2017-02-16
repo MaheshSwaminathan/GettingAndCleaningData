@@ -27,3 +27,4 @@ Steps:
 (10) Create an output file "CourseProjectResults.txt" with the dataset from (9). This includes a header row in addition to the 180 rows of data.
 
 Is this is a tidy data set? Yes. Each row corresponds to an observation (a unique combination of subject ID and activity label). Each column represents a variable.
+
